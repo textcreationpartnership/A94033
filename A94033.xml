@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A strange wonder, or, the cities amazement. Being a relation occasioned by a wonderfull and vnusuall accident, that happened in the river of Thames, Friday, Feb. 4. 1641. There flowing two tydes at London-Bridge, within the space of an houre and a halfe, the last comming with such violence and hideous noyse that it not onely affrighted, but even astonished above 500. water-men that stood beholding it, on both sides the Thames. Which latter tyde rose sixe foote higher then the former tyde had done, to the great admiration of all men.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94033</idno><idno type="EEBO-CITATION">99859394</idno>
+  <idno type="VID">156463</idno>
+  <idno type="EEBO-PROQUEST">2240860222</idno>
+  
+            <idno type="STC">Wing S5923</idno>
+            <idno type="STC">Thomason E136_4</idno>
+            <idno type="STC">ESTC R13039</idno>
+            <idno type="PROQUEST">99859394</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859394e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156463)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E136[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A strange wonder, or, the cities amazement. Being a relation occasioned by a wonderfull and vnusuall accident, that happened in the river of Thames, Friday, Feb. 4. 1641. There flowing two tydes at London-Bridge, within the space of an houre and a halfe, the last comming with such violence and hideous noyse that it not onely affrighted, but even astonished above 500. water-men that stood beholding it, on both sides the Thames. Which latter tyde rose sixe foote higher then the former tyde had done, to the great admiration of all men.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tidal currents --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156463:1"/>
+            <pb facs="tcp:156463:1"/>
+            <p>A STRANGE WONDER, OR, The Cities Amazement.</p>
+            <p>Being a Relation occasioned by a wonder<g ref="char:EOLhyphen"/>full and vnusuall Accident, that happened in the River of <hi>Thames,</hi> Friday, <hi>Feb.</hi> 4. 1641.</p>
+            <p>There flowing two Tydes at <hi>London</hi>-Bridge, within the space of an houre and a halfe, the last comming with such violence and hideous noyse, that it not onely affrighted, but even astonished above 500. Water-men that stood beholding it, on both sides the <hi>Thames.</hi>
+            </p>
+            <p>Which latter <hi>Tyde</hi> rose sixe foote higher then the former Tyde had done, to the great admi<g ref="char:EOLhyphen"/>ration of all men.</p>
+            <p>LONDON, Printed for IOHN THOMAS, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156463:2"/>
+            <pb facs="tcp:156463:2"/>
+            <head>True Newes from Heaven,</head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath been manifestly shewne how in all Ages for these 700. yeares, ever since the Conquest, dismall chances, and heavy events, have ever at<g ref="char:EOLhyphen"/>tended such vnnaturall and undue motions of the Ocean; beseeching God Almighty that it may be his mercy in Christ towards us, that it may not misse of it wonted course and that no sad distasters or judgements follow or ensue it hereupon, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l good people of this Kingdome are de<g ref="char:EOLhyphen"/>sired to lay away dispute, and embrace devotion to surcease contention and strifes, to embrace charity in peace, and quiet, with humility, and thus disposed to pray day and night with vnanimous consent; for the joyfull Union, and prosperous harmony between King and Parliament, wherein consisteth the onely happinesse of this Kingdome.</p>
+            <p>Not long since was printed an idle Pamphlet, entituled <hi>Newes from Hell,</hi> a pasquill onely intended for mirth and pa<g ref="char:EOLhyphen"/>stime not so seasonable for these dayes of publike distraction, and seuerall discontent; if <hi>Salomon</hi> may be heard, who saith, that there is a time for all things under the Sunne.</p>
+            <p>But see the chance, no sooner was that breviary of tales and collection of idle falsitie, publike exstinct and quenched men having both seene and read their fill. But behold comes <hi>Newes from Heaven,</hi> true Newes I warrant you, for God we know as the God of truth, so he delights in nothing lesse then falshood, that being as opposite to him as light unto darknesse, good unto evill, no questioning therefore any thing done by God for matter of Fact, because he doth them for the most
+<pb facs="tcp:156463:3"/>part so publickely (as who dares stand to and avouch them) that many times Kingdomes and Nations, at the least multi<g ref="char:EOLhyphen"/>tudes of persons are forced, will they take notice of them, nay more if the world is so either st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pid or Sottish, that it will take no notice, nor give any heede to Gods newes, (which are his signes and Tokens, appearing either in Skye, Earth or Water contrary or aboue the ordinarie steerage of nature) what time I say men shall spare to take speciall regard, and to slight the prodigious ensignes, if not ominous ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bingers in their addresse, and appearing, it is altogether a knowne cer<g ref="char:EOLhyphen"/>tainty that they will take notice of him by their determinate working: God saith, that the very Snow and raine shall not returne without the accomplishment of that for which they were sent, which are the ordinary affects of naturall causes very familiar with us, and shall we thinke that his wonders stand for Cyphers, that his extraordinary workes (that some<g ref="char:EOLhyphen"/>time the world is not acquainte with all once in an age) shall dye speechlesse, that his terrible Apparitions should de<g ref="char:EOLhyphen"/>part empty, leaving no effects, no prints behind them, fure<g ref="char:EOLhyphen"/>ly no, they are of greater consequence then so, and in all A<g ref="char:EOLhyphen"/>ges they have by wofull instance, that have followed them compelled the world to be of another beliefe, the Heathen Phylosophers that had nothing but the glimmering of nature to helpe them, and some rov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng guesse at naturall causes, that Blazing Starre of our time, the deaths of great Princes, and Po<g ref="char:EOLhyphen"/>tentates, immoderate Windes P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ague and Pestilence, intem<g ref="char:EOLhyphen"/>perate Raines Rot, Murren among Beasts and Cattell, the unexpected suddaine and causelesse swelling of Rivers, Death and Famine, the d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sorderly and changeable eb<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng and flowing of the Tyde, blood, and discention, if the Heathen by the Candle of n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re could not onely perceive v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but w Gods n<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ble Messengers, and part<g ref="char:EOLhyphen"/>ly <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their arrant; shall Christians that live in the day of the Gospell descrye nothing by them, but take them to bee as dombe in effect as some of them are in sound, especia ly when
+<pb facs="tcp:156463:3"/>God himselfe cryeth, <hi>my Wonders shall fill the Earth,</hi> which is understood so much with their number, as their operation, if then Gods extraordinary Heralds, <hi>J</hi> meane his dread and vnacquainted predictions have ever had some vndoubted de<g ref="char:EOLhyphen"/>signe, then this of ours that happened <hi>Februarie.</hi> the 4. being last Fryday, ought not to be passed over, as not worth the marking or observing, The strange tokens which GOD from Heaven, the day aboue-said, shewed amongst us, was this, <hi>Fryday Februarie</hi> 4. 1641. it was high Water at one of the Clocke at noon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, a time, (by reason so accommodated for all imployments, either by Water or Land) very fit to afford witnesse, of a strange and notorious accident, after it was full high Water, and that it flowed its full due time as all <hi>Almanacks</hi> set downe, and Water-men the vnquesti<g ref="char:EOLhyphen"/>onable Prognosticators in that affaire, with confidence mainetaine it stood a quiet still dead Water, a full houre and halfe, without moving or returning any way never so litle, yea the water-men flung in Stickes to the streame, as neare as they could guesse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which lay in the Water as vpon the Earth, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thout moving this way, or that, Dishes, likewise and Wod<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en Buckers they set a swimming, but it proved a stilling for move they would not any way by force of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ream or water, so that it seemed that the water was indeed asleepe or dead, or had changed or borrowed the stability of the Earth, the Water-men not content with this evidence wou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d needs make the vtmost of the rryall, that they might teport with the more boldnesse the truth of the matter, and with more cred<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble confidence they tooke their Boates and lanched into the streame or very Channell: the Boates that lay hailed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p upon the shore moved as much, ex<g ref="char:EOLhyphen"/>cept <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen they used their Oares, nay (a thing worthy the admiration of all men) they rowed under the very Arches, tooke up their Oares and slept there: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or at least lay still an houre very neare
+<pb facs="tcp:156463:4"/>their Boates not so much as moved through any way, either upward or downeward: the water seeming as plaine, quiet, even, and stable, as a pavement, under the Arch, where if any where in the Thames, there must be moving by reason of the narrownesse of the place, in this posture stood the water a whole houre and halfe or rather above by the Testimony of above five hundred Water-men on either side the <hi>Thames,</hi> whom not to believe in this case were stupiditie, not discre<g ref="char:EOLhyphen"/>tion.</p>
+            <p>At least when all men expected its ebb, being fil<g ref="char:EOLhyphen"/>led with amazement that it stood so long as hath been delivered, behold a greater wonder, a new Tyde comes in, a new Tyde with a witnesse, you might easily take notice of him, so lowde he roared, that the noise was guessed to be about <hi>Greenewich</hi> when it was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd so, not onely clearly but fearefully to the Bridge, and up he comes tumbling, roaring, and foaming in that fu<g ref="char:EOLhyphen"/>rious manner that it was horror unto all that beheld it, and as it gave sufficient notice to the care of its comming, so it left sufficient satisfaction to the eye, that it was now come, having raised the water foure foote higher then the first Tyde had done, foure foote by rule, as by evident measure did appeare, and pre<g ref="char:EOLhyphen"/>sently ebbed in as hasty confused unaccustomed man<g ref="char:EOLhyphen"/>ner, see here reader a wonder, that (all things conside<g ref="char:EOLhyphen"/>red the oldest man never saw, or heard of the like, what God would signifie unto us by it, especially in these not well setled times) we must leave to him that in such cases teacheth and instructeth by the event, but for our, parts let it worke this good effect in us (knowing that in all ages from the Conquest hitherto, if we will believe our owne Chronologers the Feoffees in trust of the passed times, this vnusuall, sudden, vnnaturall
+<pb facs="tcp:156463:4"/>returne of the Tyde, hath in this Kingdome been ever<g ref="char:EOLhyphen"/>more followed with continuall dismall heavie issues, either of deaths of unmatchable and Peerelesse perso<g ref="char:EOLhyphen"/>nages, of Battaile, sicknesse, or Famine (as by sixe and forty mournfull instances we are able to make it ap<g ref="char:EOLhyphen"/>peare:) this effect J say let it worke, let it end, or at least qualifie our dissentions &amp; vncharitable disputes, let it worke in us a hate of Popish Idolatry, yet alone unto the men, to doe well as we say well to endeavour to joyne true charity towards our neighbour with true piety toward God, to couple true sincerity with true humility, to lincke true amity toward my friend, with true and vnfained Loyalty toward my Sove<g ref="char:EOLhyphen"/>raigne.</p>
+            <p>To pray day and night for a perfect Concord, and vnanimous consent, vndivided Union betweene King and Parliament, wherein consi<g ref="char:EOLhyphen"/>steth the onely permanent hap<g ref="char:EOLhyphen"/>pinesse of this King<g ref="char:EOLhyphen"/>dome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
